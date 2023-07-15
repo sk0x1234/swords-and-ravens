@@ -56,7 +56,7 @@
     "ts-jest": "^24.0.2",
     "ts-loader": "^5.3.3",
     "ts-node": "^8.1.0",
-    "typescript": "^3.4.4",
+    "typescript": "^3.9.10",
     "typescript-json-schema": "^0.37.0",
     "url-loader": "^2.1.0",
     "uuid": "^8.0.0",
