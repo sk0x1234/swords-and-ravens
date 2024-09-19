@@ -16,7 +16,7 @@ constantly==15.1.0
 cryptography==2.8
 daphne==2.4.1
 defusedxml==0.6.0
-Django==3.0.2
+Django==4.2.16
 django-bootstrap4==1.1.1
 django-debug-toolbar==2.2
 django-environ==0.4.5
@@ -53,9 +53,9 @@ six==1.12.0
 social-auth-app-django==3.1.0
 social-auth-core==3.2.0
 soupsieve==1.9.5
-sqlparse==0.3.0
+sqlparse==0.5.0
 Twisted==19.10.0
 txaio==18.8.1
-urllib3==1.25.4
+urllib3==1.26.19
 whitenoise==5.0.1
 zope.interface==4.7.1
